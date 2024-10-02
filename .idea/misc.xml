@@ -3,7 +3,7 @@
   <component name="Black">
     <option name="sdkName" value="Python 3.12 (pymcDataScript) (2)" />
   </component>
-  <component name="ProjectRootManager">
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_22">
     <output url="file://$PROJECT_DIR$/out" />
   </component>
 </project>
