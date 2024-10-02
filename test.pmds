@@ -1,0 +1,3 @@
+print("Hello World!")
+
+formatPrint(["Hello", " World!"], [false, true])
