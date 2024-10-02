@@ -1,4 +1,4 @@
-from block import block
+from classes.Blocks.block import block
 
 
 class stateBlock(block):

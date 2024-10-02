@@ -1,4 +1,4 @@
-from stateBlock import stateBlock
+from classes.Blocks.stateBlock import stateBlock
 
 
 class nbtBlock(stateBlock):

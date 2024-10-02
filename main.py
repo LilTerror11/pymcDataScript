@@ -1,5 +1,8 @@
 import colorama
 
+import classes.Blocks
 
-colorama.init(autoreset=True)
-print(f"{colorama.Fore.YELLOW}[WARNING] This is W.I.P")
+if __name__ == "__main__":
+    colorama.init(autoreset=True)
+    print(f"{colorama.Fore.YELLOW}[WARNING] This is W.I.P")
+
